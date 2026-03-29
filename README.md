@@ -1,7 +1,7 @@
 <!-- ████ HEADER ████ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,15,24&height=200&section=header&text=devartblake&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Founder.%20Architect.%20Systems%20Builder.&descAlignY=62&descSize=20&descColor=00d4ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,15,24&height=200&section=header&text=devartblake&fontSize=64&fontColor=ff6b00&animation=fadeIn&fontAlignY=40&desc=Founder.%20Architect.%20Systems%20Builder.&descAlignY=62&descSize=20&descColor=00d4ff" />
 
 <br/>
 
@@ -152,14 +152,11 @@ namespace DevArtBlake.Core {
 
 <!-- ████ FOOTER ████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
 <br/>
 
-> *"Legacy code is just an opportunity wearing a disguise."*
+"Legacy code is just an opportunity wearing a disguise."
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,15,24&height=120&section=footer&text=Founder.%20Architect.%20Systems%20Builder.&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,15,24&height=120&section=footer&text=Founder%20%E2%80%A2%20Architect%20%E2%80%A2%20Systems%20Builder&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=55&descColor=00d4ff" />
 </div>
