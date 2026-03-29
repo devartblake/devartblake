@@ -85,12 +85,16 @@ final devartblake = Developer(
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devartblake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devartblake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-</div>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=devartblake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devartblake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
