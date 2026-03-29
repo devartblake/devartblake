@@ -1,91 +1,136 @@
+<!-- ████ HEADER ████ -->
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=devartblake&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Flutter%20%7C%20.NET%20%7C%20Game%20Dev&descAlignY=58&descSize=18" />
-
-<!-- Typing animation -->
-<a href="https://github.com/devartblake">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-ready+mobile+apps+%F0%9F%93%B1;Architecting+scalable+.NET+backends+%E2%9A%99%EF%B8%8F;Crafting+game+experiences+with+Flutter+%F0%9F%8E%AE;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,15,24&height=200&section=header&text=devartblake&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Founder.%20Architect.%20Systems%20Builder.&descAlignY=62&descSize=20&descColor=00d4ff" />
 
 <br/>
 
-<!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/devartblake?style=for-the-badge&logo=github&labelColor=0d1117&color=7c3aed)](https://github.com/devartblake)
-[![Profile Views](https://komarev.com/ghpvc/?username=devartblake&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/devartblake)
+<a href="https://github.com/devartblake">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=680&lines=%E2%96%BA+Slaying+legacy+code+one+commit+at+a+time;%E2%96%BA+Architecting+systems+that+scale+beyond+limits;%E2%96%BA+Flutter+%7C+.NET+9+%7C+Game+Dev+%7C+Microservices;%E2%96%BA+Building+Trivia+Tycoon+%E2%80%94+from+zero+to+shipped" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/devartblake?style=for-the-badge&logo=github&labelColor=0d0d0d&color=ff6b00)](https://github.com/devartblake)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=devartblake&style=for-the-badge&color=00d4ff&labelColor=0d0d0d&label=PROFILE+VIEWS)](https://github.com/devartblake)
 
 </div>
 
----
+<br/>
 
-## 👾 About Me
+<!-- ████ DIVIDER ████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```dart
-final devartblake = Developer(
-  name:       "Blake",
-  handle:     "@devartblake",
-  focus:      ["Flutter", ".NET 9", "Game Dev", "Mobile"],
-  building:   ["Trivia Tycoon 🎮", "Tycoon Backend ⚙️", "Voltcore ⚡"],
-  passions:   ["Clean Architecture", "Scalable Systems", "Great UX"],
-  currentlyLearning: ["gRPC sidecars", "AI/ML inference pipelines"],
-  funFact:    "I architect backends by day and build games by night.",
-);
+<!-- ████ IDENTITY ████ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Combat Profile
+
+```cs
+namespace DevArtBlake.Core {
+
+  public sealed class Blake : IArchitect, IFounder, ISystemsBuilder {
+
+    public string[]  Weapons    => ["Flutter", ".NET 9", "C#", "Dart", "Python", "gRPC"];
+    public string[]  Missions   => ["Trivia Tycoon 🎮", "Tycoon Backend ⚙️", "Voltcore ⚡"];
+    public string[]  Doctrines  => ["Clean Architecture", "Domain-Driven Design", "Event Sourcing"];
+    public string[]  Training   => ["AI/ML inference pipelines", "gRPC sidecars", "Distributed systems"];
+
+    public string    Creed      => "I don't just write code — I build empires, one commit at a time.";
+
+    public bool      LegacyCode => false;  // 💥 stomped into dust
+  }
+
+}
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack & Arsenal
+<!-- ████ DIVIDER ████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-
-**Mobile & Frontend**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & APIs**
-
-![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-
-**Databases & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Messaging & Observability**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+<!-- ████ TECH STACK ████ -->
+## ⚔️ &nbsp;Arsenal
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🎮 **[Trivia Tycoon](https://github.com/devartblake/trivia-tycoon)** | A full-featured trivia game with multiplayer, mini-games, coin economy, social messaging & 40+ categories | Flutter · Dart · Riverpod · Hive |
-| ⚙️ **[Tycoon Backend](https://github.com/devartblake/tycoon-backend)** | Clean-architecture .NET 9 platform powering Trivia Tycoon — microservices, event streaming, AI/ML sidecar | .NET 9 · PostgreSQL · Redis · Kafka |
-| ⚡ **[Voltcore](https://github.com/devartblake/voltcore)** | Electrical inspection & maintenance app for field technicians with offline-first PDF reporting | Flutter · Riverpod · GoRouter · Hive |
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=00d4ff" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=00d4ff" />&nbsp;
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ████ DIVIDER ████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="8">
+<!-- ████ PROJECTS ████ -->
+## 🔥 &nbsp;Active Missions
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="16" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🎮 Trivia Tycoon</h3>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff6b00?style=flat-square&labelColor=0d0d0d" /><br/><br/>
+      Full-featured multiplayer trivia game with coin economy, mini-games hub, social messaging, Discord-style rich presence &amp; 40+ categories.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hive-FF6B00?style=flat-square&logoColor=white" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>⚙️ Tycoon Backend</h3>
+      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff6b00?style=flat-square&labelColor=0d0d0d" /><br/><br/>
+      Clean-architecture .NET 9 microservices platform — event sourcing, DDD, API Gateway via YARP, Python gRPC sidecar for AI/ML inference.<br/><br/>
+      <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>⚡ Voltcore</h3>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE-00d4ff?style=flat-square&labelColor=0d0d0d" /><br/><br/>
+      Offline-first Flutter inspection app for A&amp;S Electric field technicians — compliance PDF generation, GoRouter navigation &amp; signature capture.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/GoRouter-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hive-FF6B00?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ████ DIVIDER ████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ████ STATS ████ -->
+## 📡 &nbsp;Intel &amp; Recon
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" width="50%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devartblake&theme=tokyonight" />
@@ -97,20 +142,24 @@ final devartblake = Developer(
 </table>
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=devartblake&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" />
-
+<br/>
+<img width="72%" src="https://streak-stats.demolab.com?user=devartblake&theme=tokyonight&hide_border=true&background=0d0d0d&ring=FF6B00&fire=FF6B00&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
+<br/><br/>
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=devartblake&bg_color=0d0d0d&color=00d4ff&line=ff6b00&point=ffffff&area=true&hide_border=true" />
 </div>
 
+<br/>
+
+<!-- ████ FOOTER ████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
+<br/>
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=devartblake&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" />
+> *"Legacy code is just an opportunity wearing a disguise."*
 
-</div>
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,15,24&height=120&section=footer&text=Founder.%20Architect.%20Systems%20Builder.&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 
-<!-- Footer -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
