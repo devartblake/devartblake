@@ -94,7 +94,7 @@ namespace DevArtBlake.Core {
 <table border="0" cellspacing="0" cellpadding="16" width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
-      <h3>🎮 Trivia Tycoon</h3>
+      <h3>🎮 Synaptix</h3>
       <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff6b00?style=flat-square&labelColor=0d0d0d" /><br/><br/>
       Full-featured multiplayer trivia game with coin economy, mini-games hub, social messaging, Discord-style rich presence &amp; 40+ categories.<br/><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
