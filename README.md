@@ -102,7 +102,7 @@ namespace DevArtBlake.Core {
       <img src="https://img.shields.io/badge/Hive-FF6B00?style=flat-square&logoColor=white" />
     </td>
     <td align="center" width="33%" valign="top">
-      <h3>⚙️ Tycoon Backend</h3>
+      <h3>⚙️ Synaptix Backend</h3>
       <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff6b00?style=flat-square&labelColor=0d0d0d" /><br/><br/>
       Clean-architecture .NET 9 microservices platform — event sourcing, DDD, API Gateway via YARP, Python gRPC sidecar for AI/ML inference.<br/><br/>
       <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
