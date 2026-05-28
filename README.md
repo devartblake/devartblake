@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/devartblake">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=680&lines=%E2%96%BA+Slaying+legacy+code+one+commit+at+a+time;%E2%96%BA+Architecting+systems+that+scale+beyond+limits;%E2%96%BA+Flutter+%7C+.NET+9+%7C+Game+Dev+%7C+Microservices;%E2%96%BA+Building+Trivia+Tycoon+%E2%80%94+from+zero+to+shipped" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=680&lines=%E2%96%BA+Slaying+legacy+code+one+commit+at+a+time;%E2%96%BA+Architecting+systems+that+scale+beyond+limits;%E2%96%BA+Flutter+%7C+.NET+9+%7C+Game+Dev+%7C+Microservices;%E2%96%BA+Building+Synaptix+%E2%80%94+from+zero+to+shipped" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,7 +30,7 @@ namespace DevArtBlake.Core {
   public sealed class Blake : IArchitect, IFounder, ISystemsBuilder {
 
     public string[]  Weapons    => ["Flutter", ".NET 9", "C#", "Dart", "Python", "gRPC"];
-    public string[]  Missions   => ["Trivia Tycoon 🎮", "Tycoon Backend ⚙️", "Voltcore ⚡"];
+    public string[]  Missions   => ["Synaptix 🎮", "Synaptix Backend ⚙️", "Voltcore ⚡"];
     public string[]  Doctrines  => ["Clean Architecture", "Domain-Driven Design", "Event Sourcing"];
     public string[]  Training   => ["AI/ML inference pipelines", "gRPC sidecars", "Distributed systems"];
 
